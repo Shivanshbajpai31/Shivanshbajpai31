@@ -4,13 +4,39 @@
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. Also, I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" />
-<h4>A Web Developer | Java Developer</h4>
+</p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-- 🔭 I’m currently working on a Full stack Music website
-- 🌱 I’m Interested to work on Web Development Projects
-- 💬 Ask me about Technology 
-- 📫 How to reach me: shivanshbajpai49@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on the Full Stack Music website 
+
+- 🌱 I’m currently learning **Python**
+
+- 👨‍💻 All of my projects are available at GitHub
+
+- 💬 Ask me about **Java, Python, C++ and NodeJS ,CSS**
+
+- 📫 How to reach me **shivanshbajpai49@gmail.com**
+
+- ⚡ Fun fact **I'm currently studying B.Tech COmputer Science student**
  
  ## Skills
 
