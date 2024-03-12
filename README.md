@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
@@ -17,7 +16,6 @@
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
@@ -30,13 +28,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at GitHub
+- 👨‍💻 All of my projects are available on GitHub
 
 - 💬 Ask me about **Java, Python, C++ and NodeJS ,CSS**
 
 - 📫 How to reach me **shivanshbajpai49@gmail.com**
 
-- ⚡ Fun fact **I'm currently studying B.Tech COmputer Science student**
+- ⚡ Fun fact **I'm currently studying B.Tech Computer Science student**
  
  ## Skills
 
