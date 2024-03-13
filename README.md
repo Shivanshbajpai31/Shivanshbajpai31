@@ -90,26 +90,15 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivanshbajapi31\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
+<a href="http://www.github.com/Shivanshbajpai31"><img src="https://github-readme-stats.vercel.app/api?username=Shivanshbajpai31&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shivanshbajpai31&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
 
-
-
-
-
- 
-
-
-## Projects
-
-In my GitHub repositories, you'll find a collection of projects displaying my skills and expertise as a Full Stack Developer. Feel free to explore them to get an idea of my work.
-If you have any questions, suggestions, or collaboration proposals, reach out to me.  
-Looking forward to connecting with you!
 
 
 
