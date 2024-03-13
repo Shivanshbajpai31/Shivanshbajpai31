@@ -11,6 +11,8 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://link.to/your/cpp-logo.svg" alt="C++ Logo" width="50" height="50" />
+
 </div>
 
 <br>
