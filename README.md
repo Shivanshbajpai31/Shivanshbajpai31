@@ -46,6 +46,17 @@
 <a href="https://www.instagram.com/shivanshh_bajpaii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanshh_bajpaii" height="30" width="40" /></a>
 </p>
 <br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring,,fastapi,express />
+  </a>
+</p>
  
  ## Skills
 
