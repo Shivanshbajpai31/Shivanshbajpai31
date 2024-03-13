@@ -70,6 +70,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=react&logoColor=white)
+![API](https://img.shields.io/badge/API-009688?&style=for-the-badge&logo=api&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?&style=for-the-badge&logo=express&logoColor=white)
+
 
 ### ⚡ Database :
 ![SQL](https://img.shields.io/badge/SQL-4479A1?&style=for-the-badge&logo=sql&logoColor=white)
@@ -78,6 +81,11 @@
 
 ### 👩‍💻 IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?&style=for-the-badge&logo=eclipseide&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-3C872B?&style=for-the-badge&logo=codeblocks&logoColor=white)
+![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?&style=for-the-badge&logo=codesandbox&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
