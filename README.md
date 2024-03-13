@@ -39,12 +39,11 @@
 - ⚡ Fun fact **I'm currently studying B.Tech Computer Science student**
 
 - <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivansh-bajpai-37b203215/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bg5UJQNx3SuCjYKLVJEp00A%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-bajpai" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shivansh.bajpai.520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivansh.bajpai" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shivanshh_bajpaii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanshh_bajpaii" height="30" width="40" /></a>
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 </p>
 <br>
 
