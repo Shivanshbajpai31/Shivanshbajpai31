@@ -37,7 +37,6 @@
 - 📫 How to reach me **shivanshbajpai49@gmail.com**
 
 - ⚡ Fun fact **I'm currently studying B.Tech Computer Science student**
-
 - <br>
 <h3 align="left">Connect with me:  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
@@ -90,8 +89,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
 <a href="http://www.github.com/Shivanshbajpai31"><img src="https://github-readme-stats.vercel.app/api?username=Shivanshbajpai31&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shivanshbajpai31&theme=midnight-purple)](https://git.io/streak-stats)
