@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **Java, Python, C++ and NodeJS ,CSS**
 
-- 📫 How to reach me **shivanshbajpai49@gmail.com**
+- 📫 How to reach me **shivanshbajpai31@gmail.com**
 
 - ⚡ Fun fact **I'm currently studying B.Tech Computer Science student**
 - <br>
