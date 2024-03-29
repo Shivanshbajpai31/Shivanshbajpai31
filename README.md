@@ -86,6 +86,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajpai31&langs_count=2)](https://github.com/Shivanshbajpai31)
+
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
 <a href="http://www.github.com/Shivanshbajpai31"><img src="https://github-readme-stats.vercel.app/api?username=Shivanshbajpai31&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
