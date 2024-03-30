@@ -83,7 +83,8 @@
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-3C872B?&style=for-the-badge&logo=codeblocks&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?&style=for-the-badge&logo=codesandbox&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)
-[![Intelligent Idea ](https://img.shields.io/badge/Intelligent%20Idea-0088ff?&style=for-the-badge&logoColor=white)](https://your-website-url)
+[![IntelliJ IDEA Community ](https://img.shields.io/badge/IntelliJ%20IDEA%20Community-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
