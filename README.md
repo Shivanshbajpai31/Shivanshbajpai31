@@ -83,10 +83,14 @@
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-3C872B?&style=for-the-badge&logo=codeblocks&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?&style=for-the-badge&logo=codesandbox&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)
+[![Intelligent Idea ](https://img.shields.io/badge/Intelligent%20Idea-0088ff?&style=for-the-badge&logoColor=white)](https://your-website-url)
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajpai31&langs_count=4)](https://github.com/Shivanshbajpai31)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajpai31&langs_count=5)](https://github.com/Shivanshbajpai31)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
