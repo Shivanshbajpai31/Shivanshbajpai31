@@ -69,7 +69,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=react&logoColor=white)
 ![API](https://img.shields.io/badge/API-009688?&style=for-the-badge&logo=api&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?&style=for-the-badge&logo=express&logoColor=white)
+
 
 
 ### ⚡ Database :
