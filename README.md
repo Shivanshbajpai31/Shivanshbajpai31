@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on the Full Stack Music website 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and React
 
 - 👨‍💻 All of my projects are available on GitHub
 
