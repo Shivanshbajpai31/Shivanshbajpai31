@@ -99,6 +99,7 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shivanshbajpai31&theme=midnight-purple)](https://git.io/streak-stats)
+<br/>
  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shivanshbajpai31&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 
