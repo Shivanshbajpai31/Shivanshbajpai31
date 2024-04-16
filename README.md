@@ -95,10 +95,12 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Streak:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shivanshbajpai31&theme=midnight-purple)](https://git.io/streak-stats)
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shivanshbajpai31&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
 
 </div>
 
