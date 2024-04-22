@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" style="filter: brightness(70%);" />
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" style="filter: brightness(100%);" />
 
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
