@@ -36,7 +36,7 @@
 - 📫 How to reach me **shivanshbajpai31@gmail.com**
 
 - ⚡ Fun fact **I'm currently studying B.Tech Computer Science student**
-- <br>
+ <br>
 <h3 align="left">Connect with me: 
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
