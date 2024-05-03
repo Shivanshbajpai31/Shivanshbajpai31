@@ -98,7 +98,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
-hffbhbdhhbjbjj
 <div align="center">
 
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shivanshbajpai31&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
