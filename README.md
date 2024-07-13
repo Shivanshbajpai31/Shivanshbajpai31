@@ -92,6 +92,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajpai31&langs_count=8)](https://github.com/Shivanshbajpai31)
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
